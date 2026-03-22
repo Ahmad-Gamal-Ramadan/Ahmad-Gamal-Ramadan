@@ -42,10 +42,6 @@ I'm **Ahmad Gamal Ramadan**, a Nanoscience and Nanotechnology undergraduate at K
 ---
 
 ### 📫 How to Reach Me
-- Email: your_email_here  
-- LinkedIn: your_linkedin_here  
+- Email: ahmad1519b@gmail.com
+- Phone: +201557525647
 
----
-
-### ⚡ Fun Fact
-I combine **nanoscience, quantum physics, and programming** to build tools for real research applications.
